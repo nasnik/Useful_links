@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+    font-size: 600px;
+}
+header{
+    background-color: khaki;
+}
+.table_of_links{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+a{
+    font-family: 'East Sea Dokdo', cursive;
+}
